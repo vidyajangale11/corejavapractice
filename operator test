@@ -13,12 +13,12 @@
          true && true       true
            true
 3. System.out.println((a > b) || (b < c)); System.out.println(!(a < c));
-a > b       false
-b < c       true
-false || true      true
+    a > b       false
+    b < c       true
+    false || true      true
 
-a < c       true
-!true      false
+     a < c       true
+    !true      false
          true
          false
 
